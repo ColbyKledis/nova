@@ -1,0 +1,28 @@
+/*
+		Author:			      Nova Team 
+		Date:             	  11/2/2020
+        Last revised:         11/2/2020
+		Assignment:           Semester Project
+		Purpose:              Styling for Semester Project
+*/
+
+@font-face {
+  font-family: myFirstFont;
+  src: url("fonts/carnevalee_freakshow/carnevalee_freakshow.ttf") format("truetype");
+}
+
+body{
+   font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+}
+
+header{
+    font-family: myFirstFont;
+}
+
+.row1{
+    
+}
+
+.row2{
+    
+}
